@@ -1,6 +1,4 @@
 # gpt-engineer
-
-[![Discord Follow](https://dcbadge.vercel.app/api/server/8tcDQ89Ej2?style=flat)](https://discord.gg/8tcDQ89Ej2)
 [![License](https://img.shields.io/github/license/gpt-engineer-org/gpt-engineer)](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/LICENSE)
 ![GitHub Release](https://img.shields.io/github/v/release/gpt-engineer-org/gpt-engineer)
 
